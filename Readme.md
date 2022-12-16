@@ -2,15 +2,15 @@
 <h1> Youtube Downloader com Python 💿  🐍
 </div>
   
-  <h3> Necessário:
+  <h3> Necessário:<br><br>
     <li>
-        Python3 ou maior
+        Python3 ou maior <br><br>
         </li>
      <li>
-          IDE Online
+          IDE Online <br><br>
         </li>
      <li>
-        Biblioteca:
+        Biblioteca: <br><br>
     </li>
     <ol>
         Pytube - https://pytube.io/en/latest/
