@@ -32,7 +32,7 @@
         <br/>
         <br/>
         <p> Escolha a pasta onde o arquivo será baixado: </p>
-        <img width="auto" src="https://user-images.githubusercontent.com/89695635/208429460-201345d1-26dd-4311-a657-d5ce0f6a8925.png"/>
+        <img width="80%" height="auto" src="https://user-images.githubusercontent.com/89695635/208429460-201345d1-26dd-4311-a657-d5ce0f6a8925.png"/>
         <br/>
         <br/>
         <p> Pronto só abrir com seu player e aproveitar: </p>
