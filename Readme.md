@@ -35,8 +35,8 @@
         <img width="80%" height="auto" src="https://user-images.githubusercontent.com/89695635/208429460-201345d1-26dd-4311-a657-d5ce0f6a8925.png"/>
         <br/>
         <br/>
-        <p> Pronto só abrir com seu player e aproveitar: </p>
-        <img width="80%" height="auto" src="https://user-images.githubusercontent.com/89695635/208429506-a936ca4e-fd74-4041-acbc-c2cc4161239b.png"/>
+        <p> Pronto só ir na pasta de destino e abrir o arquivo com seu player e aproveitar: </p>
+        <img width="80%" height="auto" src="https://user-images.githubusercontent.com/89695635/208455825-1e4cd2e7-7c05-440d-828a-e439ee440d76.png"/>
         <br/>
         <br/>
     </div>
